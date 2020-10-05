@@ -1,5 +1,13 @@
 ## Caesar cipher CLI tool
 
+**Install**
+
+Run in this folder:
+
+```bash
+$ npm i
+```
+
 **CLI tool that will encode and decode a text by Caesar cipher**.
 
 CLI tool accepts 4 options (short alias and full name):
